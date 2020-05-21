@@ -1,5 +1,5 @@
 # Tone-generator
-This repositary will help you to generate your desired musical tone. I have generated the musical tone for our beloved National Anthem.
+This repository will help you to generate your desired musical tone. I have generated the musical tone for our beloved National Anthem.
 
 ## Pre-requissites:
 1. Install tones library. (ignore, if already installed)
